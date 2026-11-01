@@ -4,7 +4,7 @@ export default function HeaderToko({ namaToko = 'beli-aja' }) {
       <div className="max-w-5xl mx-auto px-4 sm:px-6">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-lg bg-blue-600 flex items-center justify-center text-white shadow-sm flex-shrink-0">
+            <div className="w-10 h-10 rounded-lg bg-blue-600 flex items-center justify-center text-white shadow-sm shrink-0">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="w-5 h-5"
